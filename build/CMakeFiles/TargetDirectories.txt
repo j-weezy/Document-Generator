@@ -1,0 +1,3 @@
+/home/jason/Documents/Projects/Document Generator/Document Generator Fork/build/CMakeFiles/DocumentGenerator.dir
+/home/jason/Documents/Projects/Document Generator/Document Generator Fork/build/CMakeFiles/edit_cache.dir
+/home/jason/Documents/Projects/Document Generator/Document Generator Fork/build/CMakeFiles/rebuild_cache.dir
